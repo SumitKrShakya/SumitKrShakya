@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![LeetCode_logo_black](https://user-images.githubusercontent.com/75530555/153761432-24b9f398-3515-4e8a-9475-eb15142ef794.png)
+<!-- ![LeetCode_logo_black](https://user-images.githubusercontent.com/75530555/153761432-24b9f398-3515-4e8a-9475-eb15142ef794.png) -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkrshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrshakya" /> </p>
