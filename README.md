@@ -6,21 +6,21 @@ Here are some ideas to get you started: -->
 <h1 align="center">Hi 👋, I'm Sumit Kumar Shakya</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on Project Sudoku.
-- 💬 Ask me about ...
+- 🔭 I’m currently working on [Online Shopping Web app](https://github.com/SumitKrShakya/Online-Shopping).
+- 👯 I’m looking to collaborate on Project [Sudoku](https://github.com/SumitKrShakya/sudoku-game).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://user-images.githubusercontent.com/75530555/153811337-9dfa4f8f-ce5b-4e60-9d0a-2059293785b5.gif" align="right" height="300"  />
 
 
-<p > <img src="https://komarev.com/ghpvc/?username=sumitkrshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrshakya" /></p>
+
 
 - 🌱 I’m currently learning **Data Structure Algorithms and NodeJs**
 
 - 👨‍💻 All of my projects are available at [Digital Portfolio](https://sumitkrshakya.github.io/My-Portfolio/)
 
 - 📫 How to reach me **sumit.shakya.e21@nsut.ac.in**
+ <p > <img src="https://komarev.com/ghpvc/?username=sumitkrshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrshakya" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
