@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 <h3 align="center">A passionate Software developer from India.</h3>
 <img src="https://user-images.githubusercontent.com/75530555/153811337-9dfa4f8f-ce5b-4e60-9d0a-2059293785b5.gif" align="right" height="300"  />
 
-- 🔭 I’m currently working on [Online Shopping Web app](https://github.com/SumitKrShakya/Online-Shopping).
+- 🔭 I’m currently working on [Something Cool] 😉(https://github.com/SumitKrShakya/Online-Shopping).
 - 👯 I’m looking to collaborate on Project [Sudoku](https://github.com/SumitKrShakya/sudoku-game).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
