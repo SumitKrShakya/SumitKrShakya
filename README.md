@@ -92,11 +92,12 @@ Here are some ideas to get you started: -->
 </p></p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkrshakya&show_icons=true&locale=en&layout=compact" alt="sumitkrshakya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkrshakya&show_icons=true&locale=en&layout=compact" width="35%" alt="sumitkrshakya" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkrshakya&show_icons=true&locale=en" width="50%" alt="sumitkrshakya" /></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkrshakya&show_icons=true&locale=en" alt="sumitkrshakya" />
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkrshakya&" alt="sumitkrshakya" /></p>
+
 
 
 
