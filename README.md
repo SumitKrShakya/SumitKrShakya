@@ -10,11 +10,11 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on [Something Cool](https://github.com/SumitKrShakya/Online-Shopping)😉.
 - 👯 I’m looking to collaborate on Project [Sudoku](https://github.com/SumitKrShakya/sudoku-game).
 
-- 🌱 I’m currently learning **Data Structure Algorithms and NodeJs**
+- 🌱 I’m currently learning **Data Structure Algorithms and NodeJs**.
 
-- 👨‍💻 All of my projects are available at [Digital Portfolio](https://sumitkrshakya.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Digital Portfolio](https://sumitkrshakya.github.io/My-Portfolio/).
 
-- 📫 How to reach me **sumit.shakya.e21@nsut.ac.in**
+- 📫 How to reach me **sumit.shakya.e21@nsut.ac.in**.
 - ⚡ Fun fact: ...
 <br>
  <p > <img src="https://komarev.com/ghpvc/?username=sumitkrshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrshakya" /></p>
