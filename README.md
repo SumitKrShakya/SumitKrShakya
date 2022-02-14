@@ -90,11 +90,9 @@ Here are some ideas to get you started: -->
  <a href="https://www.leetcode.com/skshakya_123" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75530555/153761328-bd9f3cc8-7aec-404a-a73c-6219789c7c1d.png" alt="skshakya_123" height="35" width="35" />
  </a>
 </p></p>
-<br><br>
+<br>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkrshakya&show_icons=true&locale=en&layout=compact" alt="sumitkrshakya" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkrshakya&show_icons=true&locale=en&layout=compact" alt="sumitkrshakya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkrshakya&show_icons=true&locale=en" alt="sumitkrshakya" /></p>
 
