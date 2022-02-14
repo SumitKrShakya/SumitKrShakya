@@ -13,9 +13,10 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **Data Structure Algorithms and NodeJs**.
 
 - 👨‍💻 All of my projects are available at [Digital Portfolio](https://sumitkrshakya.github.io/My-Portfolio/).
+- 🏫 I’m 3rd year B.tech student from **NSUT East Campus (Formerly AIACT&R)**.
 
 - 📫 How to reach me **sumit.shakya.e21@nsut.ac.in**.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 <br>
  <p > <img src="https://komarev.com/ghpvc/?username=sumitkrshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrshakya" /></p>
 
